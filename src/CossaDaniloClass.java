@@ -17,7 +17,6 @@ public class CossaDaniloClass {
 	/**
 	 * Metodo che calcola la produttoria
 
-	 * @param f valore massimo della produttoria
 	 * @return risultato che viene ritornao dalla funzione
 	 * 
 	 * PRIMO ERRORE: r va inizializzato a 0
